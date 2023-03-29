@@ -1,6 +1,6 @@
 # ismir-latex-template
 
-Customized ISMIR LaTeX template
+Customized [ISMIR LaTeX template](https://github.com/ismir/paper_templates)
 
 [![license](https://img.shields.io/github/license/george-chou/paper-latex-template.svg)](https://github.com/george-chou/paper-latex-template/blob/master/LICENSE)
 [![CI](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml)
